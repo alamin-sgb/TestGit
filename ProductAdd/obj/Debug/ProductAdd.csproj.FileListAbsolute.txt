@@ -1,0 +1,6 @@
+E:\Ademo\ProductAdd\ProductAdd\bin\ProductAdd.dll.config
+E:\Ademo\ProductAdd\ProductAdd\bin\ProductAdd.dll
+E:\Ademo\ProductAdd\ProductAdd\bin\ProductAdd.pdb
+E:\Ademo\ProductAdd\ProductAdd\obj\Debug\ProductAdd.dll
+E:\Ademo\ProductAdd\ProductAdd\obj\Debug\ProductAdd.pdb
+E:\Ademo\ProductAdd\ProductAdd\obj\Debug\ProductAdd.csprojResolveAssemblyReference.cache
